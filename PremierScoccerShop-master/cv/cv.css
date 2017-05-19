@@ -1,0 +1,31 @@
+body{
+	background-color:white;
+	background: url(bgt1.jpg)
+}
+
+td{
+	
+}
+table{
+	margin-left:25%; 
+    margin-right:15%;
+	color:White;
+	background: url(bgt2.jpg)
+	
+	
+}
+
+h1{
+	color:#686565;
+	font-family:Verdana,Arial,Arial Black,Gabriola; 
+	font-size:350%; 
+	text-align:center;
+}
+
+#tdin{
+	font-family:Verdana,Arial,Arial Black,Gabriola;
+	font-size:100%;
+	background-color:#454545;
+	color:white;
+	
+}
